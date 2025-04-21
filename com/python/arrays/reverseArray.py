@@ -22,7 +22,6 @@ def reverseArrayUsingSlice(nums): #uses array slice from reverse
 print(reverseArray_usingInbuildMethod([1,2,3,4,5]))
 print(reverseArrayUsingStartEnd([1,2,3,4,5]))
 print(reverseArrayUsingSlice([1,2,3,4,5]))
-print(slicingExamples([1,2,3,4,5]))
 
 
 
